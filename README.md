@@ -36,14 +36,14 @@ I'm an aspiring **software engineer** who builds practical full-stack applicatio
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🖐️ <a href="REPO_LINK">VayuLekha</a></h3>
+      <h3>VayuLekha</h3>
       Gesture-controlled drawing app using real-time camera input, with colour selection, erase actions, tutorials and image/PDF export.<br><br>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
       <img src="https://img.shields.io/badge/Computer%20Vision-2DD4BF?style=flat-square">
     </td>
     <td width="50%" valign="top">
-      <h3>📄 <a href="REPO_LINK">HireMe.dev</a></h3>
+      <h3>HireMe.dev</h3>
       AI-powered resume-tailoring and career-management app using the Gemini API. AWS deployment in progress.<br><br>
       <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
       <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
@@ -51,14 +51,14 @@ I'm an aspiring **software engineer** who builds practical full-stack applicatio
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚖️ <a href="REPO_LINK">VidhiPath.ai</a></h3>
+      <h3>VidhiPath.ai</h3>
       AI-powered legal document analysis and verdict-prediction app with an interactive interface.<br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
     </td>
     <td width="50%" valign="top">
-      <h3>🗂️ <a href="REPO_LINK">Academic File Classifier</a></h3>
+      <h3>Academic File Classifier</h3>
       Automation workflow that classifies academic PDFs by semester, subject and module, then organizes them in Google Drive.<br><br>
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white">
       <img src="https://img.shields.io/badge/Google%20Drive%20API-4285F4?style=flat-square&logo=googledrive&logoColor=white">
