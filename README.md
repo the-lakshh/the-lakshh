@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Lakshmi Manjunath, Aspiring DevOps Engineer" width="100%">
+  <img src="https://github.com/the-lakshh/the-lakshh/blob/main/banner.svg" alt="Lakshmi Manjunath, Aspiring DevOps Engineer" width="100%">
 </p>
 
 <p align="center">
